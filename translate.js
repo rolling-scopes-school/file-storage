@@ -30,16 +30,16 @@ const i18Obj = {
     'price-descripton-2-span-3': '20 photos in retouch',
     'price-descripton-2-span-4': 'Readiness 1-2 weeks',
     'price-descripton-2-span-5': 'Make up, visage',
-    'price-descripton-3-span-1': 'Tree locations or more',
+    'price-descripton-3-span-1': 'Three locations or more',
     'price-descripton-3-span-2': '300 photos in color',
     'price-descripton-3-span-3': '50 photos in retouch',
-    'price-descripton-3-span-4': 'Readiness 1 weeks',
+    'price-descripton-3-span-4': 'Readiness 1 week',
     'price-descripton-3-span-5': 'Make up, visage, hairstyle',
     'order': 'Order shooting',
-    'contact-me': 'Contact with me',
+    'contact-me': 'Contact me',
     'send-message': 'Send message'
   },
-  'ru' : {
+  'ru': {
     'skills': 'Навыки',
     'portfolio': 'Портфолио',
     'video': 'Видео',
